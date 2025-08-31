@@ -271,6 +271,13 @@ We welcome contributions! Please read our [Contributing Guidelines](.github/CONT
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/alzz-26">
+                    <img src="https://avatars.githubusercontent.com/u/56277823?v=4" width="100;" alt="alzz-26"/>
+                    <br />
+                    <sub><b>alzz-26</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/suto6">
                     <img src="https://avatars.githubusercontent.com/u/169282051?v=4" width="100;" alt="suto6"/>
                     <br />
@@ -284,6 +291,8 @@ We welcome contributions! Please read our [Contributing Guidelines](.github/CONT
                     <sub><b>Vriti62</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Unnati-coder25">
                     <img src="https://avatars.githubusercontent.com/u/174034852?v=4" width="100;" alt="Unnati-coder25"/>
@@ -291,8 +300,6 @@ We welcome contributions! Please read our [Contributing Guidelines](.github/CONT
                     <sub><b>Unnati-coder25</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/22sakshiagarwal">
                     <img src="https://avatars.githubusercontent.com/u/150451687?v=4" width="100;" alt="22sakshiagarwal"/>
@@ -328,20 +335,13 @@ We welcome contributions! Please read our [Contributing Guidelines](.github/CONT
                     <sub><b>vijaykarthiktk</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/aaryapoyrekar">
                     <img src="https://avatars.githubusercontent.com/u/138993783?v=4" width="100;" alt="aaryapoyrekar"/>
                     <br />
                     <sub><b>aaryapoyrekar</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/alzz-26">
-                    <img src="https://avatars.githubusercontent.com/u/56277823?v=4" width="100;" alt="alzz-26"/>
-                    <br />
-                    <sub><b>alzz-26</b></sub>
                 </a>
             </td>
             <td align="center">
